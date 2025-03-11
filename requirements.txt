@@ -1,0 +1,6 @@
+opencv-python
+mysql-connector-python
+pandas
+torch
+torchvision
+ultralytics
